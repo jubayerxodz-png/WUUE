@@ -1,0 +1,6 @@
+{
+  "name": "TalkSpace AI & Consultation Studio",
+  "description": "An intelligent full-stack AI platform for important conversations, strategic consultation, project planning, and bilingual assistance in Bangla and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
